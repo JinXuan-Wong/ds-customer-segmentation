@@ -1,0 +1,12 @@
+Cluster,Quantity,InvoiceMonth,UnitPrice,TotalPrice,Category_Christmas Items,Category_Decorative Items,Category_Easter Items,Category_Fashion Acessories,Category_Gardening,Category_Gift Items,Category_Household Items,Category_Kitchenware,Category_Other,Category_Stationery,Category_Toys,Country_United Kingdom
+0,7,8,2.35,11.76,0,1,0,0,0,0,0,0,0,0,0,1.0
+1,8,10,2.17,12.85,1,0,0,0,0,0,0,0,0,0,0,1.0
+2,6,7,3.09,13.1,0,0,0,0,0,0,0,1,0,0,0,1.0
+3,5,8,3.82,16.36,0,0,0,0,0,0,1,0,0,0,0,1.0
+4,6,3,2.08,9.44,0,0,1,0,0,0,0,0,0,0,0,1.0
+5,6,7,3.24,13.03,0,0,0,0,0,0,0,0,1,0,0,1.0
+6,7,7,2.45,13.44,0,0,0,1,0,0,0,0,0,0,0,1.0
+7,9,7,2.01,9.17,0,0,0,0,0,1,0,0,0,0,0,1.0
+8,8,8,1.56,7.82,0,0,0,0,0,0,0,0,0,1,0,1.0
+9,5,8,3.03,11.87,0,0,0,0,0,0,0,0,0,0,1,1.0
+10,6,7,3.82,14.64,0,0,0,0,1,0,0,0,0,0,0,1.0
