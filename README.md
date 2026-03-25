@@ -228,3 +228,50 @@ Example:
 ![Elbow Method](images/elbow_method.png)
 ![PCA Clusters](images/pca_clusters.png)
 ![Dashboard](images/dashboard.png)
+
+---
+### ▶️ How to Run
+1. Clone the repository
+git clone https://github.com/your-username/ds-customer-segmentation.git
+cd ds-customer-segmentation
+2. Install dependencies
+pip install -r requirements.txt
+3. Open Jupyter Notebook
+jupyter notebook
+4. Run the notebooks
+
+### Open and run:
+
+notebooks/main_analysis.ipynb
+notebooks/dashboard.ipynb
+📁 Suggested Repository Structure
+ds-customer-segmentation/
+│
+├── data/
+│   ├── Online Retail.xlsx
+│   ├── clustered_data.xlsx
+│   └── customer_agg.xlsx
+│
+├── notebooks/
+│   ├── main_analysis.ipynb
+│   └── dashboard.ipynb
+│
+├── model/
+│   └── kmeans_model.pkl
+│
+├── images/
+│   └── (screenshots)
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+### 👤 Authors
+Low Qing Ying
+Wong Jin Xuan
+Dorcas Lim Yuan Yao
+Tan Yen Ping
+
+### 📄 Academic Note
+
+This project was developed for academic purposes as part of the BACS3013 Data Science course at Tunku Abdul Rahman University of Management and Technology (TARUMT).
