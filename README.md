@@ -231,11 +231,16 @@ pip install -r requirements.txt
 jupyter notebook
 4. Run the notebooks
 
-### Open and run:
+### ▶️ Open and run
 
-notebooks/main_analysis.ipynb
-notebooks/dashboard.ipynb
-📁 Suggested Repository Structure
+- notebooks/main_analysis.ipynb  
+- notebooks/dashboard.ipynb  
+
+---
+
+### 📁 Suggested Repository Structure
+
+```text
 ds-customer-segmentation/
 │
 ├── data/
@@ -256,6 +261,7 @@ ds-customer-segmentation/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ### 👤 Authors
 Low Qing Ying
