@@ -217,18 +217,9 @@ The report also proposes deployment into CRM, automated product recommendations,
 ---
 
 ## 🖼️ Project Preview
-Add screenshots here later, for example:
-- Elbow Method graph
-- Silhouette Score comparison
-- PCA cluster visualization
-- Dashboard screenshots
-
-Example:
-```markdown
 ![Elbow Method](images/elbow_method.png)
 ![PCA Clusters](images/pca_clusters.png)
 ![Dashboard](images/dashboard.png)
-
 ---
 ### ▶️ How to Run
 1. Clone the repository
