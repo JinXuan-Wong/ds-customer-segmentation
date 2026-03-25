@@ -264,10 +264,12 @@ ds-customer-segmentation/
 ```
 
 ### 👤 Authors
+```text
 Low Qing Ying
 Wong Jin Xuan
 Dorcas Lim Yuan Yao
 Tan Yen Ping
+```
 
 ### 📄 Academic Note
 
